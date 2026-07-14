@@ -4,7 +4,7 @@ bl_info = {
     "version": (0, 6, 11),
     "blender": (5, 1, 0),
     "location": "View3D > Sidebar > GridArch",
-    "description": "Grid-based architectural blockout toolkit with tile editing, wall generation, Boolean openings, collision primitives, and orthogonal edge editing.",
+    "description": "An architectural blockout toolkit featuring grid-based tile editing, wall generation, and the creation of openings via Boolean operations, complete with collision primitives for Godot.",
     "category": "3D View",
 }
 
