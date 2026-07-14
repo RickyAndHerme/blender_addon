@@ -1,5 +1,8 @@
-<img width="202" height="451" alt="{74CB51C4-3994-411C-9170-86F5292E988B}" src="https://github.com/user-attachments/assets/33e09551-0b92-4968-82c1-eadcb02cebd6" />
+# GridArch Addon
+グリッド単位でタイルをボンボン配置し、壁作成や壁の穴あけができる便利なアドオンです。
 
+
+<img width="202" height="451" alt="{74CB51C4-3994-411C-9170-86F5292E988B}" src="https://github.com/user-attachments/assets/33e09551-0b92-4968-82c1-eadcb02cebd6" />
 
 | ボタン名 | 機能 |
 | -------- | -------- |
@@ -17,6 +20,7 @@
 
 ## 備考
 - タイルは一つのオブジェクトで作られるので、2階建ての家などを作るときは編集モードでタイルを選択して分離するか、タイルオブジェクトごとコピーして編集するかしてください。
+- 壁エッジの最適化はAuto Optimizeでしかできません。
 
 まだまだ説明が不足しているがご勘弁願いたい。
 
