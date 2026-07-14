@@ -1,8 +1,7 @@
 # GridArch Addon
 グリッド単位でタイルをボンボン配置し、壁作成や壁の穴あけができる便利なアドオンです。
 
-
-<img width="202" height="451" alt="{74CB51C4-3994-411C-9170-86F5292E988B}" src="https://github.com/user-attachments/assets/33e09551-0b92-4968-82c1-eadcb02cebd6" />
+<img width="200" height="371" alt="{F18FA44C-E9A0-41A6-80DE-458093A892BB}" src="https://github.com/user-attachments/assets/a4c9da38-b558-41bc-b1bf-ce18ae756e10" />
 
 | ボタン名 | 機能 |
 | -------- | -------- |
