@@ -3487,7 +3487,7 @@ class VIEW3D_PT_gridmap3d(Panel):
 
         # --- BB Cube (inside GridArch)
         box = layout.box()
-        box.label(text="GN Collision")
+        box.label(text="Collision")
 
         col = box.column(align=True)
         col.operator("object.bb_create_cube", text="Create Collision")
