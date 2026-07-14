@@ -1,7 +1,7 @@
 bl_info = {
     "name": "GridArch",
     "author": "Zeroni",
-    "version": (0, 6, 11),
+    "version": (1, 0, 0),
     "blender": (5, 1, 0),
     "location": "View3D > Sidebar > GridArch",
     "description": "An architectural blockout toolkit featuring grid-based tile editing, wall generation, and the creation of openings via Boolean operations, complete with collision primitives for Godot.",
