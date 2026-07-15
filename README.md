@@ -2,6 +2,7 @@
 グリッド単位でタイルをボンボン配置し、壁作成や壁の穴あけができる便利なアドオンです。
 
 <img width="202" height="450" alt="{B075A09A-5F06-4741-863B-AF2D794017CC}" src="https://github.com/user-attachments/assets/12e89e95-a2a2-4cf7-90c1-8ac19a5a05f7" />
+<img width="922" height="755" alt="{4762A472-7773-4AC6-9DB3-D337E0228ADF}" src="https://github.com/user-attachments/assets/4b62494e-9ed0-4dd0-a63c-fe54f70cae34" />
 
 | ボタン名 | 機能 |
 | -------- | -------- |
